@@ -1,2 +1,4 @@
 name: stkentac
 markdown: GFM
+
+theme: jekyll-theme-cayman
