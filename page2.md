@@ -2,6 +2,13 @@
 layout: default
 title: Clark Kent
 ---
-text
+First level header
+==================
 
-#heading
+Second level header
+------
+
+~~~ java
+System.out.println("Hello Scotland");
+~~~
+
