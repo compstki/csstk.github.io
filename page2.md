@@ -13,3 +13,5 @@ Second level header
 System.out.println("Hello Scotland");
 ~~~
 
+- [ ] foo
+- [x] bar
