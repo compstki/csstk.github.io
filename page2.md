@@ -20,7 +20,7 @@ System.out.println("Hello Scotland");
 <summary>I could use some help...</summary>
 <p>
 
-```c#
+``` java
 public class Order
 {
     public int OrderId { get; set; }
@@ -28,7 +28,7 @@ public class Order
 
     public List<int> Products { get; set; }
 }
-\```
+```
 
 </p>
 </details>  
