@@ -9,9 +9,9 @@ First level header
 Second level header
 ------
 
-~~~ java
+``` java
 System.out.println("Hello Scotland");
-~~~
+```
 
 - [ ] foo
 - [x] bar
